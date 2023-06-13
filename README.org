@@ -1,0 +1,10 @@
+* shop3
+
+SHOP3 Git repository
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/shop-planner/shop3.git   |
+| commit  | 3dbca7e  |
+| systems | shop3 |
+|---------+-------------------------------------------|
+

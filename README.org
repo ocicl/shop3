@@ -4,6 +4,6 @@ SHOP3 Git repository
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/shop-planner/shop3.git |
-| commit  | ca9dbc2                                       |
+| commit  | c704c61                                       |
 | systems | shop3                                         |
 |---------+-----------------------------------------------|
